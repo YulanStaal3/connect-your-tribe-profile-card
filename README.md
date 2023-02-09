@@ -1,7 +1,7 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Profile card 
+Mijn persoonlijke visitekartje.
 
 ## Inhoudsopgave
 
@@ -13,12 +13,13 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Ik heb geleerd hoe ik met Node mijn visitekaart server-side kan maken. Op mijn visitekaartje is onder andere te zien hoe ver ik ben met HTM, CSS en JS. Dit is te zien door de sterren rating. 
+
+![Foto 09-02-2023 om 14 26](https://user-images.githubusercontent.com/112861488/217825382-bfda5141-2a31-4af0-822a-a8ff0c40cdcf.jpg)
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+
+Ik heb gebruik gemaakt van HTML en CSS.
 
 ## Installatie
 
