@@ -12,7 +12,7 @@ Mijn persoonlijke visitekartje.
 
 ## Beschrijving
 
-Ik heb geleerd hoe ik met Node mijn visitekaart server-side kan maken. Op mijn visitekaartje is onder andere te zien hoe ver ik ben met HTM, CSS en JS. Dit is te zien door de sterren rating. 
+Op mijn visitekaartje is onder andere te zien hoe ver ik ben met HTM, CSS en JS. Dit is te zien door de sterren rating. 
 
 ![Foto 09-02-2023 om 14 26](https://user-images.githubusercontent.com/112861488/217826959-864e088f-a034-4792-9468-33d56a3170db.jpg)
 
