@@ -22,6 +22,7 @@ Ik heb de Node ontwikkelomgeving geïnstalleerd, ook heb ik gebruik gemaakt van 
 
 ## Installatie
 
+https://vast-getup-hare.cyclic.app
 
 ## Licentie
 
