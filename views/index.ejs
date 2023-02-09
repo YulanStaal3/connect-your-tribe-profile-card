@@ -1,42 +1,25 @@
 <%- include('./partials/head') %>
 
-</article>
-<script src="./scripts/script.js"></script>
-</body>
-</html>
+    <div class="card">
+      <article>
+        <header>
+          <h1><%= member.name %></h1>
+          <p><%= member.bio.html %></p>
+        </header>
+        <body>
+  
+          <img src='images/IMG_3225 2.jpeg' alt="headshot">
+        
+          <dl>
+            <dt>CSS</dt><dd>★★☆☆☆</dd>           
+            <dt>HTML</dt><dd>★☆☆☆☆</dd>
+            <dt>JavaScript</dt><dd>☆☆☆☆☆</dd>
+          </dl>
 
-<div class="flip-card">
-
-<div class="flip-card-inner">
-
-  <div class="flip-card-front">
-    <article>
-      <header>
-        <h1><%= member.name %></h1>
-        <p><em><%= member.bio %></em></p>
-
-      </header>
-      <body>
-
-        <img src="<%= member.avatar" %>" alt="IMG_3225.jpeg">
-      
-        <dl>
-          <dt>CSS</dt><dd>★★☆☆☆</dd>
-          <dt>HTML</dt><dd>★☆☆☆☆</dd>
-          <dt>JavaScript</dt><dd>☆☆☆☆☆<dd></dd>
-        <dl>
-      
       </article>
-        <script src="./scripts/script.js"></script>
-      </body>
-      </html>  
-  </div>
+    </div>
+  </body>
+</html>  
 
 
-  <div class="flip-card-back">
-    <h1>Wie ben ik?</h1>
-    
-        <P STYLE="width: 130px; height: 130px; padding: 15px; border: solid 5px #000000;">Informatie:</P>        
-        <P STYLE="width: 130px; height: 130px; padding: 15px; border: solid 5px #000000;">Informatie:</P>   
- 
 <%- include('./partials/foot') %>
