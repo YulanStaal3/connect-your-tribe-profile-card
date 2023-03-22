@@ -18,7 +18,7 @@ Op mijn visitekaartje is onder andere te zien hoe ver ik ben met HTM, CSS en JS.
 
 ## Kenmerken
 
-Ik heb de Node ontwikkelomgeving geïnstalleerd, ook heb ik gebruik gemaakt van HTML en CSS.
+Ik heb de Node ontwikkelomgeving geïnstalleerd, ook heb ik gebruik gemaakt van HTML, CSS, API, EJS, EXPRESS, JSON.
 
 ## Installatie
 
